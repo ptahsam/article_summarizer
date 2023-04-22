@@ -1,10 +1,9 @@
-# Build and Deploy Your Own ChatGPT AI SaaS Business with React
-![AI Summarizer](https://i.ibb.co/NK12JG2/Thumbnail-26.png)
+#A ChatGPT AI SaaS Business Article Summarizer with React
 
 ## Introduction
-If you're a solo developer in 2023, you have the power to build robust AI software startups! Watch this 1-hour video and make an Article Summarizer Application using OpenAI's GPT model.
+Simplify your reading with summize, an open-source article summarizer that transforms lengthy articles into clear and concise summaries.
  
-Alongside building this application, you'll also learn how to:
+Topics:
 - setup a ReactJS project using Vite
 - create a responsive, beautiful UI/UX with a nice touch of glass morphism using Tailwind CSS
 - make advanced RTK query API requests that fire on condition
@@ -13,6 +12,3 @@ Alongside building this application, you'll also learn how to:
 - implement copy to clipboard
 - write clean code
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
